@@ -19,5 +19,17 @@
     "pip": [],
     "apt": [],
     "cached": "False"
+  },
+  {
+    "url": "https://github.com/storyicon/comfyui_segment_anything",
+    "name": "comfyui_segment_anything",
+    "path": "custom_nodes",
+    "fetch_type": "git-clone",
+    "details": {},
+    "nodes": [],
+    "pip": [],
+    "apt": [],
+    "sha": "",
+    "cached": "False"
   }
 ]
