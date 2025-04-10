@@ -1,0 +1,7 @@
+# Flowscale configuration file. Do not edit directly  
+version: 0
+models: models.json
+custom_nodes: custom_nodes.json
+user_models: user_models.json
+user_custom_nodes: user_custom_nodes.json
+  
