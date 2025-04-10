@@ -1,3 +1,23 @@
-
-[]
-      
+[
+  {
+    "name": "ComfyUI-Manager",
+    "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+    "path": "custom_nodes",
+    "fetch_type": "git-clone",
+    "details": {
+      "author": "Dr.Lt.Data",
+      "title": "ComfyUI-Manager",
+      "id": "manager",
+      "reference": "https://github.com/ltdrdata/ComfyUI-Manager",
+      "files": [
+        "https://github.com/ltdrdata/ComfyUI-Manager"
+      ],
+      "install_type": "git-clone",
+      "description": "ComfyUI-Manager itself is also a custom node."
+    },
+    "nodes": [],
+    "pip": [],
+    "apt": [],
+    "cached": "False"
+  }
+]
