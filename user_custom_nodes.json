@@ -31,5 +31,17 @@
     "apt": [],
     "sha": "",
     "cached": "False"
+  },
+  {
+    "url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
+    "name": "ComfyUI_IPAdapter_plus",
+    "path": "custom_nodes",
+    "fetch_type": "git-clone",
+    "details": {},
+    "nodes": [],
+    "pip": [],
+    "apt": [],
+    "sha": "",
+    "cached": "False"
   }
 ]
