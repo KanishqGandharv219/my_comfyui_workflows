@@ -1,7 +1,188 @@
-# Flowscale configuration file. Do not edit directly  
 version: 0
 models: models.json
 custom_nodes: custom_nodes.json
 user_models: user_models.json
 user_custom_nodes: user_custom_nodes.json
-  
+workflows:
+  - id: ffquueiah1u
+    name: Archilab.json
+    description: ''
+    file: Archilab.json
+  - id: ga6liplnd2
+    name: Final Outfit change.json
+    description: ''
+    file: Final Outfit change.json
+  - id: rxd9y153alh
+    name: IPAdapter-Grounding-Dino-Apply-Styles-v2.json
+    description: ''
+    file: IPAdapter-Grounding-Dino-Apply-Styles-v2.json
+  - id: p5du8cpq01
+    name: Inpainting workflow for changing a specific object.json
+    description: ''
+    file: Inpainting workflow for changing a specific object.json
+  - id: 04kdkcs75th6
+    name: InteriorDedign_V2.json
+    description: ''
+    file: InteriorDedign_V2.json
+  - id: jf9y71yb6hj
+    name: Multiple_Images.json
+    description: ''
+    file: Multiple_Images.json
+  - id: 2nvk9j0vhz
+    name: New document 1.json
+    description: ''
+    file: New document 1.json
+  - id: qxml5uv1kch
+    name: Upscale.json
+    description: ''
+    file: Upscale.json
+  - id: cygatdc8o9b
+    name: catvton_workflow (1).json
+    description: ''
+    file: catvton_workflow (1).json
+  - id: 4s81am6b8vm
+    name: catvton_workflow (2).json
+    description: ''
+    file: catvton_workflow (2).json
+  - id: 2qi42j1czbj
+    name: catvton_workflow.json
+    description: ''
+    file: catvton_workflow.json
+  - id: tpwi30xbeq
+    name: comfy_example_workflows_sd3_medium_example_workflow_basic.json
+    description: ''
+    file: comfy_example_workflows_sd3_medium_example_workflow_basic.json
+  - id: 89tnbzusi2e
+    name: comfy_example_workflows_sd3_medium_example_workflow_multi_prompt.json
+    description: ''
+    file: comfy_example_workflows_sd3_medium_example_workflow_multi_prompt.json
+  - id: txkid1edje
+    name: comfy_example_workflows_sd3_medium_example_workflow_upscaling.json
+    description: ''
+    file: comfy_example_workflows_sd3_medium_example_workflow_upscaling.json
+  - id: 8fe8uklglzv
+    name: comfyworkflows_simple_clothes_swap_with_segment_anything (1).json
+    description: ''
+    file: comfyworkflows_simple_clothes_swap_with_segment_anything (1).json
+  - id: xgxea08dn6d
+    name: comfyworkflows_simple_clothes_swap_with_segment_anything (2).json
+    description: ''
+    file: comfyworkflows_simple_clothes_swap_with_segment_anything (2).json
+  - id: wknlqrfg6o
+    name: comfyworkflows_simple_clothes_swap_with_segment_anything.json
+    description: ''
+    file: comfyworkflows_simple_clothes_swap_with_segment_anything.json
+  - id: secv5q4znln
+    name: credentials.json.json
+    description: ''
+    file: credentials.json.json
+  - id: x4zwsjr5yj
+    name: final interior depthmap workflow.json
+    description: ''
+    file: final interior depthmap workflow.json
+  - id: xje28ip3svo
+    name: final interior design line map workflow.json
+    description: ''
+    file: final interior design line map workflow.json
+  - id: 9p3a4l24gcp
+    name: img2img.json
+    description: ''
+    file: img2img.json
+  - id: uvxjmpffzk
+    name: latest.json
+    description: ''
+    file: latest.json
+  - id: 6ialta7mvm5
+    name: replace_dress.json
+    description: ''
+    file: replace_dress.json
+  - id: i5ep735ha
+    name: sd3_upscale.json
+    description: ''
+    file: sd3_upscale.json
+  - id: z4qhrncrbpm
+    name: >-
+      utkarsh_aggarwal_a_simple_workflow_for_changing_clothes_in_ai_generated_images_using_ip_adapter_comfyworkflows.json
+    description: ''
+    file: >-
+      utkarsh_aggarwal_a_simple_workflow_for_changing_clothes_in_ai_generated_images_using_ip_adapter_comfyworkflows.json
+  - id: 7r9hgwuse53
+    name: workflow (1).json
+    description: ''
+    file: workflow (1).json
+  - id: h90vpk4fbmi
+    name: workflow-basic-ipadapter-8H0mGG5dOFQCuslp2qQv-openart-openart.ai.json
+    description: ''
+    file: workflow-basic-ipadapter-8H0mGG5dOFQCuslp2qQv-openart-openart.ai.json
+  - id: w0c9jmidqum
+    name: >-
+      workflow-changing-materials-multiple-interior-images-Fig9bsXm9KwvbGzuLb3B-fish_intent_33-openart.ai.json
+    description: ''
+    file: >-
+      workflow-changing-materials-multiple-interior-images-Fig9bsXm9KwvbGzuLb3B-fish_intent_33-openart.ai.json
+  - id: 1h6t9hnwi3i
+    name: >-
+      workflow-comfyui---magic-clothing-workflow-lz0wWAC9RhEWNFd2IZvO-cgtips-openart.ai.json
+    description: ''
+    file: >-
+      workflow-comfyui---magic-clothing-workflow-lz0wWAC9RhEWNFd2IZvO-cgtips-openart.ai.json
+  - id: 34gxeeqape5
+    name: >-
+      workflow-comfyui---one-click-outfit-change-with-catvton-wrapper-Pb8RNKSHMMTi2vBemVCP-cgtips-openart.ai
+      (1).json
+    description: ''
+    file: >-
+      workflow-comfyui---one-click-outfit-change-with-catvton-wrapper-Pb8RNKSHMMTi2vBemVCP-cgtips-openart.ai
+      (1).json
+  - id: wfkzhfx5n1g
+    name: >-
+      workflow-comfyui---one-click-outfit-change-with-catvton-wrapper-Pb8RNKSHMMTi2vBemVCP-cgtips-openart.ai.json
+    description: ''
+    file: >-
+      workflow-comfyui---one-click-outfit-change-with-catvton-wrapper-Pb8RNKSHMMTi2vBemVCP-cgtips-openart.ai.json
+  - id: ndtuld40fz
+    name: >-
+      workflow-comfyui---outfit-to-outfit-controlnet-model-ATd5EuWsQ2OvCwT85R0W-cgtips-openart.ai.json
+    description: ''
+    file: >-
+      workflow-comfyui---outfit-to-outfit-controlnet-model-ATd5EuWsQ2OvCwT85R0W-cgtips-openart.ai.json
+  - id: 4x5hmil2m6
+    name: >-
+      workflow-comfyui-basic---easily-change-your-outfit-8xuY2L2SsgpYEkDMFUfP-cgtips-openart.ai.json
+    description: ''
+    file: >-
+      workflow-comfyui-basic---easily-change-your-outfit-8xuY2L2SsgpYEkDMFUfP-cgtips-openart.ai.json
+  - id: dysmiusdbg
+    name: >-
+      workflow-comfyui-milehighstyler---style-generator-l0UYJvMOdrM5kBSR0glg-cgtips-openart.ai.json
+    description: ''
+    file: >-
+      workflow-comfyui-milehighstyler---style-generator-l0UYJvMOdrM5kBSR0glg-cgtips-openart.ai.json
+  - id: 7vi8wt4e699
+    name: >-
+      workflow-comfyui-workflow-for-flux-simple-iuRdGnfzmTbOOzONIiVV-maitruclam-openart.ai.json
+    description: ''
+    file: >-
+      workflow-comfyui-workflow-for-flux-simple-iuRdGnfzmTbOOzONIiVV-maitruclam-openart.ai.json
+  - id: s6mdez620q
+    name: >-
+      workflow-instant-id-5wsvMLmgHbFE8t6a3Igx-rhinoceros_tense_89-openart.ai.json
+    description: ''
+    file: >-
+      workflow-instant-id-5wsvMLmgHbFE8t6a3Igx-rhinoceros_tense_89-openart.ai.json
+  - id: qvl6m30pyd
+    name: >-
+      workflow-interior-design-workflow-GoUHms2gxpH8r3vTfuDd-terrier_hairy_84-openart.ai.json
+    description: ''
+    file: >-
+      workflow-interior-design-workflow-GoUHms2gxpH8r3vTfuDd-terrier_hairy_84-openart.ai.json
+  - id: upsf3keqh0b
+    name: >-
+      workflow-seamlessly-swap-clothing-ip-adapter-v2-facedetailer-deepfashion-Ei0r9zHeiJ6Rl8qkt4Gj-tortoise_crazy_36-openart.ai.json
+    description: ''
+    file: >-
+      workflow-seamlessly-swap-clothing-ip-adapter-v2-facedetailer-deepfashion-Ei0r9zHeiJ6Rl8qkt4Gj-tortoise_crazy_36-openart.ai.json
+  - id: icig2j6rj4
+    name: workflow.json
+    description: ''
+    file: workflow.json
